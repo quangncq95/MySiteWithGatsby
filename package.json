@@ -1,0 +1,22 @@
+{
+  "name": "my-site-with-gatsby",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-site-with-gatsby",
+  "author": "ncquang",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.21.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
